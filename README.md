@@ -20,8 +20,8 @@ I wrapped the whole thing in an event listener `.addEventListener()` listening f
 
 ### References
 
-[Example sprite sheet](https://www.spriters-resource.com/game_boy_gbc/metroid2/sheet/1778/)
-[Methods for clicking](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/click)
-[Get attribute](https://www.w3schools.com/jsref/met_element_getattribute.asp)
-[Keyboard event listener](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
+[Example sprite sheet](https://www.spriters-resource.com/game_boy_gbc/metroid2/sheet/1778/) \
+[Methods for clicking](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/click) \
+[Get attribute](https://www.w3schools.com/jsref/met_element_getattribute.asp) \
+[Keyboard event listener](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent) \
 [Selector reference. It's for jQuery but applies](https://www.w3schools.com/jquery/jquery_ref_selectors.asp)
