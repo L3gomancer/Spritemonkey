@@ -14,6 +14,6 @@ Copy the script into your own Tampermonkey script. Feel free to modify it, I can
 
 ### A Brief Tour Of The Script
 
-`.click()` clicks a link and `img[alt="Next"]` is the selector
-`GM_download({})` downloads from a URL, `img[src*="/resources/sheets"]` selects the image element and then `.getAttribute()` grabs the URL fragment from the "src" attribute to pass to `GM_download`
+`.click()` clicks a link and `img[alt="Next"]` is the selector \
+`GM_download({})` downloads from a URL, `img[src*="/resources/sheets"]` selects the image element and then `.getAttribute()` grabs the URL fragment from the "src" attribute to pass to `GM_download` \
 I wrapped the whole thing in an event listener `.addEventListener()` listening for key "d"
